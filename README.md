@@ -12,7 +12,7 @@ the information shows:
   3-the tempreture in Celsius.
   4-the user feeling.
   
-to run the file u need to :
+to run the file you need to :
 1-Make sure Node is installed from the terminal.
 2-Install the packages Express, Body-Parser, and Cors from the terminal and  include them in your server.js file.
 3-Run the command `node server.js` in the terminal/command shell in order to start a server.
